@@ -1,0 +1,8 @@
+reference: /home/users/data/01_reference/human_g1k_v37/human_g1k_v37.fasta
+
+# delly 
+delly: /home/users/cjyoon/tools/delly/src/delly
+dellymask: /home/users/cjyoon/tools/delly/excludeTemplates/human.hg19.excl.tsv
+
+# bcftools
+bcftools: /home/users/cjyoon/anaconda3/bin/bcftools

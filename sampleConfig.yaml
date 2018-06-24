@@ -1,0 +1,23 @@
+project:
+    rheum
+
+samples:
+    PDP1:
+        /home/users/cjyoon/Projects/rheum/bam/PDP1.bam
+    PDP2:
+        /home/users/cjyoon/Projects/rheum/bam/PDP2.bam
+    PDP3:
+        /home/users/cjyoon/Projects/rheum/bam/PDP3.bam
+    PDP4:
+        /home/users/cjyoon/Projects/rheum/bam/PDP4.bam
+
+    SSc1:
+        /home/users/cjyoon/Projects/rheum/bam/SSc1.bam
+    SSc2:
+        /home/users/cjyoon/Projects/rheum/bam/SSc2.bam
+    SSc3:
+        /home/users/cjyoon/Projects/rheum/bam/SSc3.bam
+    SSc4:
+        /home/users/cjyoon/Projects/rheum/bam/SSc4.bam
+    SSc5:
+        /home/users/cjyoon/Projects/rheum/bam/SSc5.bam   
